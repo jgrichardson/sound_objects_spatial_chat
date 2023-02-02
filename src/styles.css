@@ -1,0 +1,11 @@
+body {
+  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('https://images.squarespace-cdn.com/content/636a8a8ff158092797bbb892/1670531885925-E65IRPCRPFBXW9LB8CN0/SO+Social+Thumbnail.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
